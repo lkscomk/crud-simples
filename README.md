@@ -22,7 +22,8 @@ Por último crie um aquivo .env com as seguintes informações.
 
 ```sh
 //.env
-APP_KEY=APP_PORT secreta=5000
+APP_KEY=secreta
+APP_PORT=5000
 
 //configurações do banco de dados mysql
 DB_CLIENT=mysql
