@@ -5,7 +5,7 @@ O sistema é simples e faz apenas a inserção de usuário na banco de dados, a 
 
 - Use para inicar seus projetos.
 - Construar sua própria API
-- ✨É quase mágica✨M  
+- ✨É quase mágica✨
 
 ## Instalação
 
