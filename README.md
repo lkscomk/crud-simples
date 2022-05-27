@@ -3,7 +3,7 @@
 
 O sistema é simples e faz apenas a inserção de usuário na banco de dados, a consulta de todos os usuários ou a consulta de um único usuário, a alteração e o exclusão de um registro.
 
-- Use para inicar seus projetos.
+- Use para iniciar seus projetos.
 - Construar sua própria API
 - ✨É quase mágica✨
 
